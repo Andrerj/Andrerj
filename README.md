@@ -2,7 +2,7 @@
  
 - 👀 I’m interested mainly in mobile and web development and opportunities for a position as mobile developer.
 
-- 🌱 I’m currently relearning iOS(Swift) by myself, enrolled in Bootcamp: Geração Tech Unimed-BH - Ciência de dados at DIO and using github as a place to store studies, challenges and projects.
+- 🌱 I’m currently relearning iOS(Swift) by myself, enrolled in a front-end Bootcamp: Orange Tech + at DIO and using github as a place to store studies, challenges and projects.
  
 - 📫 You can reach me through: andre_rodriguesj@hotmail.com
 
