@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Andrerj, 31 years old, I got my degree in Web Systems at Centro Universitário Senac where, too, I worked on iOS apps at Apple Developer Academy(BEPiD). Currently, I'm located at São Bernardo do Campo, São Paulo, Brazil.
+- 👋 Hi, I’m @Andrerj, 32 years old, I got my degree in Web Systems at Centro Universitário Senac where, too, I worked on iOS apps at Apple Developer Academy(BEPiD). Currently, I'm located at São Bernardo do Campo, São Paulo, Brazil.
  
 - 👀 I’m interested mainly in mobile and web development and opportunities for a position as mobile developer.
 
-- 🌱 I’m currently relearning iOS(Swift) by myself, enrolled in a front-end Bootcamp: Orange Tech + at DIO and using github as a place to store studies, challenges and projects.
+- 🌱 I’m currently relearning iOS(Swift) by myself and using github as a place to store studies, challenges and projects.
  
 - 📫 You can reach me through: andre_rodriguesj@hotmail.com
 
